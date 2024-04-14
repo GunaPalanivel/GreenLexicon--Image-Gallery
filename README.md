@@ -1,4 +1,4 @@
-# GreenLexicon - Image Gallery
+# [GreenLexicon](https://github.com/GunaPalanivel/GreenLexicon.git) - Image Gallery
 
 This is a responsive image gallery created with HTML, CSS, and JavaScript. The gallery features a sliding animation and a set of navigation buttons to cycle through the images.
 
