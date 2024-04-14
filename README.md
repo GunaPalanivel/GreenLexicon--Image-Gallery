@@ -27,7 +27,7 @@ You can customize the gallery by modifying the CSS and JavaScript files. Here ar
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-github-username/your-repo-name).
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/GunaPalanivel/GreenLexicon--Image-Gallery.git).
 
 ## License
 
